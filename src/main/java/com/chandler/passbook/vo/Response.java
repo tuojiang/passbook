@@ -24,9 +24,9 @@ public class Response {
     /** 返回值对象 */
     private Object data;
 
-    public Response(Object data) {
-        this.data = data;
-    }
+//    public Response(Object data) {
+//        this.data = data;
+//    }
 
     /**
      * 空响应
